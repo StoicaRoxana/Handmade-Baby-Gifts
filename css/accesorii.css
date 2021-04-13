@@ -1,0 +1,136 @@
+
+header{
+    width: 100%;
+}
+
+header img{
+    width: 100%;
+}
+
+h1{
+    font-size: 110%;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+p{
+    word-spacing: 2px;
+    font-size: 100%;
+    line-height: 35px;
+}
+
+
+section{
+    padding: 80px 0;
+}
+
+ img{
+    width: 60%;
+ }
+ 
+.images1,
+.images2,
+.images3{
+    display: block;
+    position: relative;
+    text-align: center;
+    margin-left: auto;
+}
+
+
+.images2 img{
+    margin-left: 10%;
+    width: 80%;
+}
+
+.images2 figcaption{
+    margin-left: 100px;
+}
+
+figcaption{
+    font-size: 80%;
+    
+}
+
+footer{
+    background-color: rgb(3, 49, 3);
+    color:#fff;
+}
+
+.title1,
+.title2,
+.title3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:#000;
+  
+}
+
+.title2 p,
+.title3 p{
+    margin-top:12px;
+    font-size: 70%;
+
+}
+
+h3{
+    font-size:110%
+    
+}
+
+ li{
+    margin-top:20px;
+    list-style-type: none;
+    
+}
+
+span{
+    color: rgb(3, 49, 3);
+    font-size: 120%;
+   
+}
+.hidden{
+    display: none;
+}
+
+.images3 img{
+    width: 110%;
+}
+.images3 figcaption{
+    text-align: center;
+}
+/*FOOTER*/
+footer{
+    background-color:rgba(3, 49, 3, 0.788);
+}
+.paragh{
+    
+    margin-top: 80px;
+    text-align: center;
+    font-size: 50%;
+    
+
+}
+
+.images3 span{
+    font-size: 230%;
+    top:45%;
+    padding: 0px 15px;
+    color:#fff;
+    position: absolute;
+
+    
+}
+.previous span{
+    left:0;    
+}
+
+.next span{
+    right:-10%; 
+}
+
+.images3 span:hover{
+    background-color: #71717165;
+}

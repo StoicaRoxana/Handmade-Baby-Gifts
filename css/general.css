@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    color:rgb(58, 56, 56);
+    font-family: 'Trocchi', serif;
+    font-size:20px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility; /*aceasta proprietate face ca textul nostru sa fie afisat intr-un mod perfect*/
+    background-color:rgba(224, 223, 223, 0.925);
+}
+
+
+
+.row{
+    max-width: 1140px; /*singura care va aveam definita valoarea in pixeli*/
+    margin: 0 auto; /*pentru centrarea continutului*/
+}
+
+.clearfix {
+    zoom: 1;
+  }
+  .clearfix:after {
+    /*aceasta clasa va sterge float dupa un element*/
+    content: ".";
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+  }
+
+  

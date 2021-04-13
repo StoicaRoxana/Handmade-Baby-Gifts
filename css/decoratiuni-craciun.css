@@ -1,0 +1,80 @@
+header{
+    width: 100%;
+}
+
+section{
+    padding: 60px 0;
+}
+
+header img{
+    width: 100%;
+    
+}
+
+.images1 img{
+    
+  
+    width: 40%;
+    margin-left: 30%;
+}
+
+.images1 figcaption{
+    text-align: center;
+    font-size: 70%;
+}
+
+h1{
+    text-align: center;
+    font-size: 120%;
+    margin-bottom: 50px;
+}
+
+p{
+    word-spacing: 2px;
+    font-size: 100%;
+    line-height: 35px;
+}
+
+.box img{
+    width: 250px;
+    height: auto;
+   
+}
+
+.box{
+    padding: 0px 0 0 80px;
+    margin-left: 0px;
+}
+
+a{
+    color:#000;
+    text-decoration: none;
+}
+
+span{
+    margin-top:30px;
+    font-size: 30px;
+}
+
+.hidden{
+    display: none;
+}
+
+.products {
+    padding: 0 40px;
+}
+
+footer{
+    background-color: rgb(55 67 21);
+        color:#fff;
+        padding: 8px 0 0 0;
+    }
+
+    .paragh{
+        
+        margin-top: 10px;
+        text-align: center;
+        font-size: 50%;
+        
+    
+    }
